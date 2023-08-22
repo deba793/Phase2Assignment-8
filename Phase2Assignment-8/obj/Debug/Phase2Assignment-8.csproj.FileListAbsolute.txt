@@ -1,0 +1,13 @@
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\bin\Debug\Phase2Assignment-8.exe.config
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\bin\Debug\Phase2Assignment-8.exe
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\bin\Debug\Phase2Assignment-8.pdb
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\bin\Debug\EntityFramework.dll
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\bin\Debug\EntityFramework.SqlServer.dll
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\bin\Debug\EntityFramework.xml
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\bin\Debug\EntityFramework.SqlServer.xml
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\obj\Debug\Phase2Assignment-8.csproj.AssemblyReference.cache
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\obj\Debug\Phase2Assignment-8.csproj.SuggestedBindingRedirects.cache
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\obj\Debug\Phase2Assignment-8.csproj.CoreCompileInputs.cache
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\obj\Debug\Phase2Assignment-8.csproj.CopyComplete
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\obj\Debug\Phase2Assignment-8.exe
+E:\Phase-2\Day-8-22-08-23\Phase2Assignment-8\Phase2Assignment-8\obj\Debug\Phase2Assignment-8.pdb
